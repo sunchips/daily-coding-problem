@@ -5,7 +5,7 @@ from typing import List
 
 class C1:
 
-    def __init__(self, input: List, k: int):
+    def __init__(self, input: List[int], k: int):
         self.input = input
         self.k = k
 
